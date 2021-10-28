@@ -1,0 +1,7 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dat: 2021-10-28 14:42:17
+
+two:
+  dat: 2021-10-28 14:42:17
